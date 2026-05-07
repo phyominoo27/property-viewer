@@ -3,7 +3,7 @@ import pandas as pd
 import pypdf
 
 st.set_page_config(
-    page_title ="Myanmar Property Viewer",
+    page_title ="Myanmar Property Data Viewer",
     page_icon="🏠",
     layout="wide"
 )
@@ -113,7 +113,8 @@ elif mode == "PDF Reader":
                         label="Download Extracted Text",
                         data = text,
                         file_name="extracted_property_text.txt",
-                        mime="text/plain"
+                        mime="text/plain",
+                        key=f"btn_{page_number}"
                     )
                 else:
                     st.warning("No text could be extracted from the PDF.")
