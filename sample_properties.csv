@@ -1,0 +1,11 @@
+type,location,bedrooms,bathrooms,sqft,price_mmk
+Apartment,Yangon,2,1,850,180000000
+House,Mandalay,3,2,1600,250000000
+Condo,Yangon,1,1,600,120000000
+Land,Naypyidaw,0,0,2400,90000000
+Commercial,Yangon,0,1,1200,300000000
+Apartment,Mandalay,2,1,900,150000000
+House,Yangon,4,3,2200,480000000
+Land,Bago,0,0,3000,70000000
+Condo,Yangon,3,2,1400,320000000
+Apartment,Taunggyi,2,1,780,110000000
