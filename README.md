@@ -70,3 +70,7 @@ Add screenshot here after deployment.
 - Add AI-generated Burmese and English property descriptions
 - Add OCR for scanned PDFs
 - Add property Q&A using MiniMax
+
+## Demo
+
+Live app: https://property-viewer-e9ask5a3etvyjlknyisfcr.streamlit.app/
